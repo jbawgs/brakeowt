@@ -1,5 +1,5 @@
 # brakeowt
-####A minimal breakout clone developed entirely in AIDE on my Moto G.
+#### A minimal breakout clone developed entirely in AIDE on my Moto G.
 
 While bored at local sportsball games where my children were cheerleaders, I entertained myself by developing this small game on my 
 Android phone. The Android IDE [AIDE](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiiyYmmxM3KAhWG6SYKHdrFAFAQFgguMAI&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.aide.ui%26hl%3Den&usg=AFQjCNHZbh3ybTvw-EBnZsa4vk6dn3Onxw&sig2=B-mj45tWN1YNfKluX6806w) 
